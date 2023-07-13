@@ -1,12 +1,8 @@
 # vmq_lfe_plugin
 
-[![Build Status][travis badge]][travis]
-[![LFE Versions][lfe badge]][lfe]
-[![Erlang Versions][erlang badge]][versions]
-[![Tag][github tag badge]][github tag]
-[![Downloads][hex downloads]][hex package]
+![LFE Versions][lfe badge]
+![Erlang Versions][erlang badge]
 
-[![Project Logo][logo]][logo-large]
 
 *An LFE application*
 
@@ -71,13 +67,8 @@ Copyright © 2021, Andre Fatton.
 [travis badge]: https://img.shields.io/travis/ORG/vmq_lfe_plugin.svg
 [gh-actions-badge]: https://github.com/ORG/vmq_lfe_plugin/workflows/Go/badge.svg
 [gh-actions]: https://github.com/ORG/vmq_lfe_plugin/actions
-[lfe]: https://github.com/rvirding/lfe
-[lfe badge]: https://img.shields.io/badge/lfe-1.3.0-blue.svg
-[erlang badge]: https://img.shields.io/badge/erlang-19%20to%2023-blue.svg
-[version]: https://github.com/ORG/vmq_lfe_plugin/blob/master/.travis.yml
+[lfe]: https://github.com/lfe/lfe
+[lfe badge]: https://img.shields.io/badge/lfe-2.1-blue.svg
+[erlang badge]: https://img.shields.io/badge/erlang-19%20to%2025-blue.svg
 [github tags]: https://github.com/ORG/vmq_lfe_plugin/tags
 [github tags badge]: https://img.shields.io/github/tag/ORG/vmq_lfe_plugin.svg
-[github downloads]: https://img.shields.io/github/downloads/ORG/vmq_lfe_plugin/total.svg
-[hex badge]: https://img.shields.io/hexpm/v/vmq_lfe_plugin.svg?maxAge=2592000
-[hex package]: https://hex.pm/packages/vmq_lfe_plugin
-[hex downloads]: https://img.shields.io/hexpm/dt/vmq_lfe_plugin.svg
