@@ -46,7 +46,7 @@
  (export  (start 0)
           (stop 0)))
 
-(include-file "vernemq_dev.hrl")
+(include-lib "vernemq_dev/include/vernemq_dev.hrl")
 (include-lib "logjam/include/logjam.hrl")
 
 ;;;==================================================================
